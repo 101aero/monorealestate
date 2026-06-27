@@ -1,2 +1,4 @@
 # monorealestate
-monopolio inmobiliARIO 2026
+Juego estilo mono poly, ambientado en marbella.
+2026
+
